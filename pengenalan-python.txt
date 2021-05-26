@@ -1,0 +1,8 @@
+Python adalah bahasa pemrogaman interpretatif yang dianggap mudah dipelajari serta berfokus pada keterbacaan kode. 
+Dengan kata lain, 
+Python di kenal sebagai bahasa pemrogaman yang memiliki kode " pemrogaman yang sangat jelas, lengkap dan mudah untuk di pahami.
+
+Dengan kata lain, Python adalah bahasa pemrogaman simpel untuk pembuatan aplikasi berbasis kecerdasaan buatan (artifical intelligence).
+Python secara umum berbentuk pemrogaman berorientasi objek, pemrogaman imperatif dan pemrogaman fungsional. 
+Istilah lainnya, bahasa pemrogaman multi-paradigma.
+Python dapat digunakan untuk berbagai keperluan pengembangan perangkat lunak dan dapat berjalan di berbagai platform sistem operasi.
